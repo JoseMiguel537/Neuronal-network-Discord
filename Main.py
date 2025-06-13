@@ -22,4 +22,4 @@ async def cargar(ctx):
     else:
         await ctx.send("no hay un archivo adjunto")
 
-bot.run("token robot de discord")
+bot.run("Token of your robot discord")
